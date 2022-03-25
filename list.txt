@@ -1,0 +1,777 @@
+CrystalDiskMark Portable
+
+OpenJDK Portable
+
+OpenJDK JRE Portable
+
+RBTray Portable
+
+CherryTree Portable
+
+calibre Portable
+
+K-Meleon Portable
+
+McAfee Stinger Portable
+
+Google Chrome Portable
+
+NVDA Portable
+
+Media Player Classic - Home Cinema Portable
+
+Telegram Desktop Portable
+
+Notepad++ Portable
+
+Lagrange Portable
+
+Mozilla Firefox, Portable Ed.
+
+JPEGView Portable
+
+Fonts
+
+Rufus Portable
+
+Blender Portable
+
+Mozilla Thunderbird, P.E.
+
+Warzone 2100 Portable
+
+PortableApps.com Template
+
+PortableApps.com Installer
+
+NSIS Portable
+
+Mozilla Firefox, P.E. Test
+
+Mozilla Firefox Developer Portable
+
+Mozilla Thunderbird, P.E. Test
+
+PopMan Portable
+
+Eraser Portable
+
+Iron Portable
+
+OBS Studio Portable
+
+Eraser Dot Net Portable
+
+dotNet
+
+Links Portable
+
+SeaMonkey Portable
+
+SMPlayer Portable
+
+PWGen Portable
+
+Sigil Portable
+
+RedNotebook Portable
+
+WinSCP Portable
+
+SWI-Prolog Portable
+
+VeraCrypt Portable
+
+PeaZip Portable
+
+grepWin Portable
+
+Zettlr Portable
+
+Picard Portable
+
+Toucan
+
+qBittorrent Portable
+
+Qmmp Portable
+
+Gramps Portable
+
+FileZilla Portable
+
+CrystalDiskInfo Portable
+
+CopyQ Portable
+
+FileOptimizer Portable
+
+GPG Plugin Portable
+
+LameXP Portable
+
+Money Manager Ex Portable
+
+Cppcheck Portable
+
+Assault Cube Portable
+
+Shotcut Portable
+
+Mixxx Portable
+
+Battle for Wesnoth Portable
+
+Media Player Classic - Black Edition Portable
+
+YUMI-UEFI Portable
+
+YUMI Portable
+
+WinMerge Portable
+
+Lossless Cut Portable
+
+KiTTY Portable
+
+Scribus Portable
+
+Workrave Portable
+
+QOwnNotes Portable
+
+freac Portable
+
+Mumble Portable
+
+JDK
+
+Java Portable
+
+Java
+
+Sumatra PDF Portable
+
+Stellarium Portable
+
+KeePass Pro Portable
+
+Krita Portable
+
+Task Coach Portable
+
+PortableApps.com Platform Test
+
+Audacity Portable
+
+The Legend of Edgar Portable
+
+Lucas Chess Portable
+
+IceBreaker Portable
+
+Golly Portable
+
+Avidemux Portable
+
+KeePass Portable
+
+Wizznic Portable
+
+PortableApps.com AppCompactor
+
+7-Zip Portable
+
+Sylpheed Portable
+
+Password Safe Portable
+
+SuperTux Portable
+
+FreeCAD Portable
+
+Stella Portable
+
+GnuCash Portable
+
+Puzzle Collection Portable
+
+GIMP Portable
+
+RocksnDiamonds Portable
+
+FreeCiv Portable
+
+Process Monitor Portable
+
+Autoruns Portable
+
+Geany Portable
+
+WinMerge 2011 Portable
+
+PDFTK Builder Portable
+
+OpenTTD Portable
+
+Mnemosyne Portable
+
+DVDStyler Portable
+
+BOINC Portable
+
+cdrtfe Portable
+
+BleachBit Portable
+
+HijackThis Portable
+
+Monero Portable
+
+OpenOffice.org Portable
+
+Dogecoin Portable
+
+Java Portable Launcher
+
+SMPlayer Portable Codecs
+
+jdkPortable
+
+PortableApps.com Launcher
+
+Pidgin Portable
+
+WinWGet Portable
+
+Mozilla Firefox, P.E. Legacy
+
+SuperTuxCart Portable
+
+HexChat Portable
+
+MicroSIP Portable
+
+Ghostscript Portable
+
+Inkscape Portable
+
+MediaInfo Portable
+
+Litecoin Portable
+
+Bitcoin Portable
+
+uGet Portable
+
+Ditto Portable
+
+OpenShot Portable
+
+ The Mana World Portable
+
+Powder Toy Portable
+
+Rapid CRC Unicode Portable
+
+Zint Barcode Studio Portable
+
+LBreakout2 Portable
+
+PotPlayer OpenCodec
+
+ gPodder Portable
+
+ManiaDrive Portable
+
+PuTTY Portable
+
+Lightscreen Portable
+ 
+VLC Media Player Portable
+
+TCPView Portable
+
+WinObj Portable
+
+Command Prompt Portable
+
+Virtual Volumes View Portable
+
+KeePassXC Portable
+
+ClamWin Portable
+
+Miranda NG Portable
+
+Pidgin Portable Facebook Plugin
+
+Process Explorer Portable
+
+uTorrent Portable
+
+CamStudio Portable
+
+FontForge Portable
+
+LMarbles Portable
+
+VirtuaWin Portable
+
+MuseScore Portable
+
+Celestia Portable
+
+Armagetron Advanced Portable
+
+Sauerbraten Portable
+
+winLAME Portable
+
+UNetbootin Portable
+
+Shortcuts Search And Replace Portable
+
+qTox Portable
+
+Pencil2D Portable
+
+Otter Browser Portable
+
+LazPaint Portable
+
+Geany Portable Plugins
+
+LibreOffice Portable
+
+RAMMap Portable
+
+VMMap Portable
+
+Mozilla Thunderbird, P.E. Legacy
+
+Checksum Control Portable
+
+ZoomIt Portable
+
+DebugView Portable
+
+Google Chrome Portable Incognito
+
+NetHack Portable
+
+LMMS Portable
+
+X-Moto Portable
+
+CDEx Portable
+
+MyPaint Portable
+
+Warzone 2100 Portable Videos
+
+Gaim Portable
+
+Transmission Portable
+
+Dave Gnukem Portable
+
+FocusWriter Portable
+
+QuiteRSS Portable
+
+RawTherapee Portable
+
+UltraDefrag Portable
+
+ConvertAll Portable
+
+Pencil Project Portable
+
+gVim Portable
+
+Hedgewars Portable
+
+wxMP3gainPortable
+
+Falkon Portable
+
+KVIrc Portable
+
+DOSBox Portable
+
+Free Download Manager Portable
+
+Kaspersky TDSSKiller Portable
+
+FastCopy Portable
+
+Firefox Portable Private Window
+
+PhotoFilmStrip Portable
+
+Lynx Portable
+
+The Guide Portable
+
+IniTranslator Portable
+
+TypeFaster Portable
+
+XAMPP Launcher
+
+Brutal Chess Portable
+
+DamnVid_Portable
+
+On-Screen Keyboard Portable
+
+Mozilla Firefox, P.E. 2nd Profile
+
+QupZilla Portable
+
+PortableApps.com Themes
+
+Miranda IM Portable
+
+Private Browsing By PortableApps.com
+
+Isotoxin Portable
+
+QuteCom Portable
+
+Audacity Portable LAME plugin
+
+PokerTH Portable
+
+Gnumeric Portable
+
+Notepad2-mod Portable
+
+Atomic Tanks Portable
+
+SeaMonkey Portable 2nd Profile
+
+Mozilla Sunbird, P.E. 2nd Profile
+
+Mozilla Thunderbird, P.E. 2nd Profile
+
+Xye Portable Puzzle Packs
+
+Xye Portable
+
+2048 Portable
+
+A Dark Room Portable
+
+Colour Contrast Analyser Portable
+
+Greenfish Icon Editor Pro
+
+Xonotic Portable
+
+PngOptimizer Portable
+
+Marble Portable
+
+TweetDeck Portable
+
+InfraRecorder Portable
+
+SpeedCrunch Portable
+
+KchmViewerPortable
+
+AutoDrum Portable
+
+LibreCAD Portable
+
+BPBible Portable
+
+AkelPad Portable
+
+FreeFileSync Portable
+
+CuteMarkEd Portable
+
+WinBoard Portable
+
+Scorched 3D Portable
+
+Process Hacker Portable
+
+netPanzer Portable
+
+Chromium BSU Portable
+
+Dont Panic Portable
+
+Tile World Portable
+
+Pidgin-OTR Portable
+
+WinCDEmu Portable
+
+TEncoder Portable
+
+CoolPlayer+ Portable
+
+Gridy Portable
+
+Audacious Portable
+
+wxDownloadFast Portable
+
+TIPP10 Portable
+
+Ant Renamer Portable
+
+WinDjView Portable
+
+TAudioConverter Portable
+
+Tick5 Portable
+
+Texter Portable
+
+T-3 Portable
+
+Synkron Portable
+
+WinPenguins Portable
+
+Monster 2 Portable
+
+Kobo Deluxe Portable
+
+Hex-a-Hop Portable
+
+GoldenDict Portable
+
+Get Sudoku Portable
+
+SQLite Database Browser Portable
+
+Mp3splt Portable
+
+Pauls Extreme Sound Stretch Portable
+
+K-3D Portable
+
+Caesium Portable
+
+WarMUX Portable
+
+Daphne Portable
+
+Evince Portable
+
+DiffImg Portable
+
+DM2 Portable
+
+Solfege Portable
+
+Dia Portable
+
+Frhed Portable
+
+Duplicate Files Finder Portable
+
+xpy Portable
+
+WhoDat Portable
+
+Neverball Portable
+
+Notepad2 Portable
+
+Pushover Portable
+
+Disk Cleaner Portable
+
+Cubic Explorer Portable
+
+Cube Portable
+
+GPG for SeaMonkey Portable
+
+GPG for Thunderbird Portable
+
+Cornice Portable
+
+Console Portable
+
+Cook Timer Portable
+
+dotNETInspector Portable
+
+ToDoList Portable
+
+AbiWord Portable
+
+Mozilla Sunbird, Portable Ed.
+
+PeerBlock Portable
+
+Instantbird Portable
+
+GIMP Portable Help
+
+WaveShop Portable
+
+ Ekiga Portable
+
+VirtualDub Portable
+
+Diffpdf Portable
+
+Billy Mays Caps Lock
+
+Songbird
+
+Virtual Magnifying Glass Port.
+
+VirtualDub Portable Plugins
+
+FreeMat Portable
+
+DynDNS Simply Client Portable
+
+Project Invincible Portable
+
+WackGet Portable
+
+WinMTR Portable
+
+Password Gorilla Portable
+
+I Have No Tomatoes Portable
+
+Feed Notifier Portable
+
+KompoZer Portable
+
+Regshot Portable
+
+Explorer++ Portable
+
+LAN Messenger Portable
+
+Smart Deblur Portable
+
+jPortable Browser Switch
+
+A Note Portable
+
+Pingus Portable
+
+Artha Portable
+
+Beret Portable
+
+KeepNote Portable
+
+Sqliteman Portable
+
+InfraRecorder Portable MP3 Plg
+
+Dicom Portable
+
+PChat Portable
+
+WinDirStat Portable
+
+4st Attack Portable
+
+WAtomic Portable
+
+Big Solitaires 3D Portable
+
+winMd5Sum Portable
+
+Xenon File Manager Portable
+
+Frets on Fire Portable
+
+Juice Portable
+
+Clicky Gone Portable
+
+USB Sudoku Portable
+
+Sudoku Portable
+
+Mines-Perfect Portable
+
+Jooleem Portable
+
+JkDefrag Portable
+
+HM NIS Edit Portable
+
+UUID-GUID Generator Portable
+
+PortableApps.com Launcher Test
+
+EraserDrop Portable
+
+Pidgin-Encryption Portable
+ 
+Pidgin Portable Themes
+
+One-Offs
+
+GIMP Portable Photoshop Layout
+
+TEST_ Development Releases
+
+WinRoll Portable
+
+PortableApps.com Development Toolkit Test
+
+MP3Gain Portable
+
+PNotes Portable
+
+Songbird Portable
+
+aMSN Portable
+
+Pathological Portable
+
+Twin Distress Portable
+
+Zaz Portable
+
+PChat Portable Plugins
+
+Fyre Portable
+
+XN Resource Editor Portable
+
+BonkEnc Portable
+
+TEST_ Pre-Releases
+
+BonkEnc Portable MP3 Plg
+
+PortableApps.com Suite
+
+PortableApps.com Suite Light
+
+PortableApps.com Music Production Suite
+
+Diashapes Portable
+
+Mozilla Thunderbird, Address Book
+
+NSIS Patch
+
+OpenOffice.org Portable Add-On
+
+MPlayer Portable
+
+Nvu Portable
+
+GTK Portable

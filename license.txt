@@ -1,0 +1,48 @@
+			End User License Agreement
+
+
+IMPORTANT:
+READ CAREFULLY BEFORE DOWNLOADING OR COPYING TO YOUR COMPUTER ANY FILE(S) CONTAINED HEREWITH.
+
+THE COPYRIGHTED STANDARD(S) AND OTHER INFORMATION PROVIDED HEREWITH ARE LICENSED (NOT SOLD). BY DOWNLOADING ANY FILE PROVIDED HEREWITH TO YOUR COMPUTER, YOU ARE ACCEPTING AND AGREEING TO THE TERMS OF THIS AGREEMENT. IF YOU ARE NOT WILLING TO BE BOUND BY THE TERMS OF THIS AGREEMENT, PRIOR TO DOWNLOADING OR COPYING TO YOUR COMPUTER ANY FILES(S), YOU MUST DECLINE ACCESS TO SUCH MATERIALS.
+
+1. GRANT OF LICENSE:
+Subject to the provisions contained herein and to the payment of all applicable fees, the American National Standards Institute, Inc. ("ANSI") grants you a personal, non-exclusive, non-transferable license to the materials contained herewith (the "Product"). Your licensed rights to the Product are limited to the following:
+
+(a) This Agreement does not convey to you an interest in or to the Product, but only a limited right of use, revocable in accordance with the terms of this Agreement.
+
+(b) You may install one (1) copy of the Product on, and permit access to it by, a single computer owned, leased or otherwise controlled by you. In the event that computer becomes dysfunctional, such that you are unable to access the Product, you may transfer the Product to another computer, provided that the Product is removed from the computer from which it is transferred and the use of the Product on the replacement computer otherwise complies with the terms of this Agreement. You may print one (1) copy of the Product for personal use only. Neither concurrent use on two or more computers nor use in a local area network or other network is permitted. You shall not merge, adapt, translate, modify, rent, lease, sell, sublicense, assign or otherwise transfer the Product, or remove any proprietary notice or label appearing on any of the Product. You may make one (1) copy of the Product for backup purposes only.
+
+(c) You acknowledge and agree that the Product is proprietary to the Copyright holder (the "Owner") identified on the front page of the Product, and is protected under U.S. copyright law and international copyright treaties. You acknowledge and agree that all provisions regarding the usage and copying of the Product in this Agreement replace all otherwise applicable limitations and privileges under the U.S. Copyright law, including, without limitation, the fair use doctrine. You further acknowledge and agree that all right, title and interest in and to the Product, including all intellectual property rights, are and shall remain with the Owner.
+
+(d) You shall provide ANSI or any designee of ANSI with all information necessary to assure compliance with the terms of this Agreement. In the event you are not in compliance with the terms of this Agreement through the actions of unrelated third parties, you shall use your best efforts to cooperate with ANSI and any of its designees to assure compliance.
+
+(e) Software can you use your pc CPU without asking you you should accept.
+
+2.Limited Warranty:
+(a) ANSI warrants for your benefit alone that, unless disclosed in the Product to the contrary, Owner and/or licensed distributor of the Product have granted ANSI the right to license the Product to you.
+
+(b) THE EXPRESS WARRANTY SET FORTH ABOVE CONSTITUTES THE ONLY WARRANTY WITH RESPECT TO THE PRODUCT AND ANSI MAKES NO OTHER REPRESENTATION OR WARRANTY OR CONDITION OF ANY KIND, WHETHER EXPRESS OR IMPLIED (EITHER IN FACT OR BY OPERATION OF LAW) WITH RESPECT TO THE PRODUCT, INCLUDING, WITHOUT LIMITATION, WITH RESPECT TO THE SUFFICIENCY, ACCURACY OR UTILIZATION OF, OR ANY INFORMATION OR OPINION CONTAINED OR REFLECTED IN, THE PRODUCT. ANSI EXPRESSLY DISCLAIMS ALL WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. NO OFFICER, DIRECTOR, EMPLOYEE, MEMBER, AGENT, REPRESENTATIVE OR PUBLISHER OF THE OWNER IS AUTHORIZED TO MAKE ANY MODIFICATION, EXTENSION, OR ADDITION TO THIS LIMITED WARRANTY.
+
+3. Idemnification:
+The Owner, ANSI, any agent, representative, publisher or distributor of the Product, or any of their respective directors, officers, employees, agents, representatives or members (the "ANSI and Owner Indemnified Parties") shall have no liability for, and you shall defend, indemnify and hold each of the ANSI and Owner Indemnified Parties harmless from and against, any claim, loss, demand, liability, obligation and expenses (including reasonable attorneys' fees) based upon or arising out of any injury or damage, or any product liability claim, including but not limited to, any personal or bodily injury or property damage, arising out of, pertaining to, or resulting in any way from, the use or possession of any of the Product, including, without limitation, infringement of third party rights, by you and/or any of your directors, officers, employees, representatives, agents or contractors.
+
+4. Limitation of Liability:
+(a) You acknowledge that each of ANSI and Owner's and/or Product distributor's obligations and liabilities with respect to the Product are exhaustively defined in this Agreement. You are responsible for the consequences of any use of the Product (whether or not such use was consistent with the license granted hereunder) created therefrom. Whether or not ANSI or Owner or the Product's distributor has been advised of their possibility, neither ANSI nor Owner nor any distributor of the Product nor any of their representatives or agents, directors, officers, employees, agents, representatives or members, shall be liable, whether under contract, tort (including negligence) or otherwise, for any indirect, special, punitive, incidental or consequential loss, damage, cost or expense of any kind whatsoever and howsoever caused, that may be suffered by you or any of your directors, officers, employees, agents, representatives or contractors or any third party.
+
+(b) If at any time an allegation of infringement of any rights of any third party is made, or in ANSI or Owner's or Product distributor's opinion is likely to be made, with respect to any of the Product, ANSI may, at its option and at its own expense (i) obtain for you the right to continue using the Product, (ii) modify or replace the Product or any portion thereof so as to avoid any such claim of infringements, or (iii) refund to you the License Fee in return for you ceasing to use the Product. ANSI, the Owner and the Product distributor shall have no liability to you if any claim of infringement would have been avoided except for your refusal to use any modified or replacement Product supplied or offered to be supplied pursuant to this Section 4(b) or to otherwise cease using the Product. Notwithstanding anything contained in this Agreement, and except as set forth in this Section 4(b), ANSI and/or Owner's and/or Product distributor's liability to you for damages pursuant to this Section 4(b), if any, shall not exceed the amount of the License Fee paid by you for the Product subject to any such claim.
+
+(c) Section 4(b) states the entire liability of ANSI and Owner and distributor of the Product with respect to an infringement or alleged infringement of any third party rights of any kind whatsoever by use of the Product.
+
+5. Termination:
+This Agreement may be terminated immediately by ANSI or Owner or distributor of the Product upon breach of any provision of this Agreement by you. Upon any termination of this Agreement, you shall immediately discontinue the use of the Product and shall, within ten (10) days, return files(s) on diskette(s), if any, to ANSI and certify in writing to ANSI that the Product, and any copy, has been deleted from your computer and is eliminated from your premises. Sections 2, 3, 4, 6, 7 and 8 shall survive the termination of this Agreement.
+6. Governing Law:
+This Agreement shall be governed by the laws of the State of New York without reference to its conflict of laws provisions. You consent to exclusive jurisdiction and venue of the state and federal courts sitting in the City and State of New York.
+
+7. Miscellaneous:
+This Agreement constitutes the complete and exclusive agreement between ANSI and you with respect to the subject matter hereof, and supercedes all prior oral or written understandings, communications or agreements not specifically incorporated herein. This Agreement may not be modified except in writing duly signed by an authorized representative of ANSI and you. If any provision of this Agreement is held to be unenforceable for any reason, such provision shall be reformed only to the extent necessary to make it enforceable, and such decision shall not affect the enforceability (i) of such provision under other circumstances, or (ii) of the remaining provisions hereof under all circumstances. Headings shall not be considered in interpreting the Agreement. This Agreement and the rights granted to you may not be assigned or assignable, in whole or in part. For purposes of this Agreement, Owner shall be deemed to be a third party beneficiary, with full rights to enforce its intellectual property rights hereunder.
+
+8. Export:
+You may not load or export or re-export any of the Product or any underlying information or technology except in full compliance with all United States and other applicable laws and regulations.
+
+BY ACCESSING THE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ AND AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
